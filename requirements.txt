@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+yfinance
+scikit-learn
+xgboost
+cvxpy
+scipy
+statsmodels
+fpdf
+feedparser
